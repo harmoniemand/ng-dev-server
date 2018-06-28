@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "dashboard": {
+      "port": 4300
+    },
+    "debug": {
+      "port": 4000
+    },
+    "external": {
+      "port": 4500
+    },
+    "public": {
+      "port": 4200
+    },
+    "zaehler": {
+      "port": 4400
+    }
+  }
+}
